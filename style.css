@@ -1,0 +1,31 @@
+
+.skin-blue .main-header .logo{background-color:#703989!important;}
+.skin-blue .main-header .logo:hover{background-color:#703989 !important;}
+.skin-blue .main-header .navbar {background-color:#703989 !important;}
+
+.slider-animate-container { text-align: right; margin-top: 10px;}
+
+.slider-animate-button {
+  color:#703989 !important; font-size:17px;margin-top:15px !important;opacity:1 !important;}
+
+.skin-blue .sidebar-menu > li.active > a, .skin-blue .sidebar-menu > li:hover > a{
+  border-color:#703989 !important;border-left:3px solid #70398 ;}
+  
+.skin-blue .sidebar-menu > li > a{border-left:3px solid transparent;}
+
+h4{line-height:30px !important;}
+
+
+
+/*.skin-blue .sidebar-menu > li.active > a{border-left-color:3px solid #703989;!important; }
+
+.skin-blue .sidebar-menu > li.active > a, .skin-blue .sidebar-menu > li:hover > a {border-left-color:3px solid red ;!important; }
+.skin-blue .sidebar-menu > li.active > a, .skin-blue .sidebar-menu > li:hover > a{border-color:red !important;}*/
+
+
+@media screen and (max-device-width: 480px) {
+
+
+/*#my_plot1,#my_plot2,#my_plot3{min-height:300px !important; max-height:350px;}*/
+  
+}
